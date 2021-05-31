@@ -91,6 +91,11 @@
             <td><i class="fa fa-check"></i> (Yes, 16)</td>
             <td><i class="fa fa-check"></i> (Yes, 10)</td>
         </tr>
+         <tr>
+            <td><strong>Each Section Excerpt(Description) length Control</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
         <tr>
             <td><strong>Topbar</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
